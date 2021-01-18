@@ -1,10 +1,13 @@
+body {
+  font-family: "Bodoni Moda", serif;
+}
+
 .navbar-brand {
-  font-family: "Courgette", cursive;
-  font-size: 28;
-  color: rgb(202, 202, 226);
+  font-family: "Parisienne", cursive;
+  font-size: 34;
 }
 
 .WT {
-  font-size: 38px;
-  color: rgb(182, 182, 235);
+  font-size: 42px;
+  color: rgb(200, 217, 248);
 }
