@@ -28,3 +28,5 @@ a {color:#5f5e5e;
   font-size: 42px;
   color: rgb(200, 217, 248);
 }
+
+content li {list-style: none}
