@@ -14,6 +14,9 @@ color: #5f5e5e;
 a {color:#5f5e5e;
 }
 
+content li {list-style: none}
+
+
 .col {color: #5f5e5e
 }
 
@@ -29,4 +32,3 @@ a {color:#5f5e5e;
   color: rgb(200, 217, 248);
 }
 
-content li {list-style: none}
